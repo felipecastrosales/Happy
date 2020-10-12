@@ -1,5 +1,5 @@
 <p align="center">
-      <img src="images/Logo.png" width="" alt="Happy Logo"/>
+      <img src="public/images/Logo.png" width="50%" alt="Happy Logo"/>
 </p>
 
 ---

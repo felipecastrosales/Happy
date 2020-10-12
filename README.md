@@ -1,5 +1,5 @@
 <p align="center">
-      <img src="" width="" alt=""/>
+      <img src="public/images/Logo.png" width="50%" alt="Happy Logo"/>
 </p>
 
 <h1 align="center">Happy</h1>
@@ -24,7 +24,7 @@
 <h2 align="center">Preview 💻📱</h2>
 
    <p align="center">
-      <img src="public/images/happy.png" width="" alt="Happy Demo"/>
+      <img src="public/images/happy.png" width="100%" alt="Happy Demo"/>
    </p>
 
 ---
@@ -33,7 +33,7 @@
 <h2 align="center">Layout 🎨</h2>
 
    <p align="center">
-      The Layout was developed by <a href="https://instagram.com/tiagoluchtenberg">Tiago Luchtenberg</a>,and you can access it on Figma, just click <a href="https://www.figma.com/file/XYb2tha1gU5M8vTwTUmjNx/Happy-Web-(Copy)?node-id=0%3A1">here</a>!
+      The Layout was developed by <a href="https://instagram.com/tiagoluchtenberg">Tiago Luchtenberg</a>, and you can access it on Figma, just click <a href="https://www.figma.com/file/XYb2tha1gU5M8vTwTUmjNx/Happy-Web-(Copy)?node-id=0%3A1">here</a>!
    </p>
 
 ---
