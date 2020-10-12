@@ -1,5 +1,5 @@
 <p align="center">
-      <img src="public/images/Logo.png" width="50%" alt="Happy Logo"/>
+      <img src="https://user-images.githubusercontent.com/59374587/95769039-9c788c00-0c8d-11eb-8f48-72be5a5ec97d.png" width="50%" alt="Happy Logo"/>
 </p>
 
 ---
@@ -28,7 +28,7 @@
 <h2 align="center">Previews 🖥️📱</h2>
 
    <p align="center">
-      <img src="public/images/happy.png" width="" alt="Happy Demo"/>
+      <img src="https://user-images.githubusercontent.com/59374587/95769033-9a163200-0c8d-11eb-8f43-2930a859f858.png" width="100%" alt="Happy Demo"/>
    </p>
 
 
