@@ -10,11 +10,12 @@
       The Happy project, developed during the Next Level Week, from <a href="https://rocketseat.com.br/">Rocketseat</a>, from the 12th to the 18th of October.<br>
       The project is inspired by Charities, which carry out very important work in the world. And it is intended to encourage children to visit orphanages, which is a beautiful thing to see the happiness of children.<br>
       And the challenge for the week was to propose not only programming, but also a little reflection. 😀<br>
+      Let's bring happiness to the world! 😊 <br>
       This event had a lot of exclusive, free content, it was simply sensational and profitable! 😄
    </p>
 
    - ✅ "Accelerating Your Evolution" 💪
-   - 🔄 "Looking at opportunities" 👀
+   - ✅ "Looking at opportunities" 👀
    - 🔄 "The Stack's Choice" 📌
    - 🔄 "Up to two years in 2 months" 🔥
    - 🔄 "The extra mile" 🚀
@@ -33,14 +34,22 @@
 <h2 align="center">Layout 🎨</h2>
 
    <p align="center">
-      The Layout was developed by <a href="https://instagram.com/tiagoluchtenberg">Tiago Luchtenberg</a>, and you can access it on Figma, just click <a href="https://www.figma.com/file/XYb2tha1gU5M8vTwTUmjNx/Happy-Web-(Copy)?node-id=0%3A1">here</a>!
+      The Layout was developed by <a href="https://instagram.com/tiagoluchtenberg">Tiago Luchtenberg</a>, and you can access it on Figma, just click to see <a href="https://www.figma.com/file/XYb2tha1gU5M8vTwTUmjNx/Happy-Web-(Copy)?node-id=0%3A1">Desktop</a> and at <a href="https://www.figma.com/file/X27FfVxAgy9f5IFa7ONlph/Happy-Mobile?node-id=0%3A1">Mobile </a>!
    </p>
 
 ---
 
 <h2 align="center">Functionalities 🛠️</h2>
 
-   > In development
+- Bring happiness to the world! 🥳
+- Encourage people to visit orphanages!
+- You can create and register orphanages;
+- You can mark the days for visiting orphanages;
+   - Accessing opening hours and days 📅,
+   - Schedule visits,
+   - Get in touch via Whatsapp 📞,
+   - View directions via Google Maps 🗺
+- Browse different tabs and pages;
 
 ---
 
