@@ -1,17 +1,22 @@
 * {
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 body {
-    height: 100vh;
-    color: white;
+  height: 100vh;
+  color: white;
+  background: #ebf2f5
 }
 
 :root {
-    font-size: 62.5%;
+  font-size: 62.5%;
 }
 
-body, input, button, textarea {
-    font: 400 18px/1 'Nunito', sans-serif;
+body,
+input,
+button,
+textarea {
+  font: 400 18px/1 "Nunito", sans-serif;
 }

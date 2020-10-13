@@ -13,15 +13,16 @@
    <p align="center">
       O projeto Happy, desenvolvido na semana Next Level Week, da <a href="https://rocketseat.com.br/">Rocketseat</a>, durante o dia 12 ao 18 do mês de Outubro.<br>
       O projeto tem como inspiração as Instituições de Caridade, que realizam um trabalho muito importante no mundo. E tem como intenção incentivar a visitação de crianças em orfanatos, que é uma coisa linda ver a felicidade de crianças.<br>
-      E o desafio da semana, era propor não só programar, mas também nos trazer uma pequena reflexão. 😀
+      E o desafio da semana, era propor não só programar, mas também nos trazer uma pequena reflexão. 😀<br>
+      Vamos levar felicidade para o mundo! 😊<br>
       Este evento teve muito conteúdo exclusivo e gratuito, foi simplesmente sensacional! 😄
    </p>
 
-   - ✅ "Acelerando sua evolução" 💪
-   - 🔄 "Olhando as oportunidades" 👀
-   - 🔄 "A escolha da Stack" 📌
-   - 🔄 "Até dois anos em 2 meses" 🔥
-   - 🔄 "A milha extra" 🚀
+- ✅ "Acelerando sua evolução" 💪
+- ✅ "Olhando as oportunidades" 👀
+- 🔄 "A escolha da Stack" 📌
+- 🔄 "Até dois anos em 2 meses" 🔥
+- 🔄 "A milha extra" 🚀
 
 ---
 
@@ -31,18 +32,25 @@
       <img src="https://user-images.githubusercontent.com/59374587/95769033-9a163200-0c8d-11eb-8f43-2930a859f858.png" width="100%" alt="Happy Demo"/>
    </p>
 
-
 <h2 align="center">Layout 🎨</h2>
 
    <p align="center">
-      O Layout foi desenvolvido por <a href="https://instagram.com/tiagoluchtenberg">Tiago Luchtenberg</a>, e você pode acessá-lo no Figma, basta clicar <a href="https://www.figma.com/file/XYb2tha1gU5M8vTwTUmjNx/Happy-Web-(Copy)?node-id=0%3A1">aqui</a>!
+      O Layout foi desenvolvido por <a href="https://instagram.com/tiagoluchtenberg">Tiago Luchtenberg</a>, e você pode acessá-lo no Figma, basta clicar para ver em <a href="https://www.figma.com/file/XYb2tha1gU5M8vTwTUmjNx/Happy-Web-(Copy)?node-id=0%3A1">Desktop</a> e em <a href="https://www.figma.com/file/X27FfVxAgy9f5IFa7ONlph/Happy-Mobile?node-id=0%3A1">Mobile</a>!
    </p>
 
 ---
 
 <h2 align="center">Funcionalidades 🛠️</h2>
 
-   >A desenvolver
+- Levar felicidade para o mundo! 🥳
+- Incentivar as pessoas a visitar orfanatos! 
+- Você pode criar e cadastrar orfanatos;
+- Pode marcar os dias para a visitação de orfanatos;
+  - Acessando horários e dias de funcionamento 📅,
+  - Agendar visitas,
+  - Entrar em contato via Whatsapp 📞,
+  - Ver as rotas via Google Maps 🗺
+- Navegar em diferentes guias e páginas;
 
 ---
 
@@ -57,30 +65,30 @@
 
 <h2 align="center">Como usar 🤔</h2>
 
-   ```
-   - Clone o repositório:
-   $ git clone https://github.com/felipecastrosales/Happy Happy
+```
+- Clone o repositório:
+$ git clone https://github.com/felipecastrosales/Happy Happy
 
-   - Entre no diretório:
-   $ cd Happy
-   ```
+- Entre no diretório:
+$ cd Happy
+```
 
 ---
 
 <h2 align="center">Como contribuir 💪</h2>
 
-   ```
-   - Fork o projeto
+```
+- Fork o projeto
 
-   - Crie uma nova branch com suas alterações:
-   $ git checkout -b my-feature
+- Crie uma nova branch com suas alterações:
+$ git checkout -b my-feature
 
-   - Salve suas alterações e crie uma mensagem de confirmação dizendo o que você fez:
-   $ git commit -m "feature: My new feature"
+- Salve suas alterações e crie uma mensagem de confirmação dizendo o que você fez:
+$ git commit -m "feature: My new feature"
 
-   - Envie suas alterações:
-   $ git push origin my-feature
-   ```
+- Envie suas alterações:
+$ git push origin my-feature
+```
 
 ---
 
@@ -90,15 +98,15 @@
    Este repositório está sob licença MIT. Você pode ver o arquivo <a href="https://github.com/felipecastrosales/Happy/blob/master/LICENSE"> LICENSE </a> para mais detalhes. 😉
 </p>
 
-   ---
+---
 
-   >Este projeto foi desenvolvido com ❤️ por **[@Felipe Sales](https://www.linkedin.com/in/felipecastrosales/)**, com o instrutor **[@MaykBrito](https://linkedin.com/in/maykbrito)**, durante a **[Next Level Week](https://rocketseat.com.br/)** da **[Rocketseat](https://www.linkedin.com/school/rocketseat/about/)** 💜. <br>
-   Se isso te ajudou, dê uma ⭐, isso vai me ajudar também! 😉
+> Este projeto foi desenvolvido com ❤️ por **[@Felipe Sales](https://www.linkedin.com/in/felipecastrosales/)**, com o instrutor **[@MaykBrito](https://linkedin.com/in/maykbrito)**, durante a **[Next Level Week](https://rocketseat.com.br/)** da **[Rocketseat](https://www.linkedin.com/school/rocketseat/about/)** 💜. <br>
+> Se isso te ajudou, dê uma ⭐, isso vai me ajudar também! 😉
 
 ---
 
    <div align="center">
 
-   [![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Sales-292929?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipecastrosales/)](https://www.linkedin.com/in/felipecastrosales/)
+[![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Sales-292929?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipecastrosales/)](https://www.linkedin.com/in/felipecastrosales/)
 
    </div>
