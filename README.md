@@ -16,7 +16,7 @@
 
    - ✅ "Accelerating Your Evolution" 💪
    - ✅ "Looking at opportunities" 👀
-   - 🔄 "The Stack's Choice" 📌
+   - ✅ "The Stack's Choice" 📌
    - 🔄 "Up to two years in 2 months" 🔥
    - 🔄 "The extra mile" 🚀
 
@@ -28,13 +28,17 @@
       <img src="https://user-images.githubusercontent.com/59374587/95769033-9a163200-0c8d-11eb-8f43-2930a859f858.png" width="100%" alt="Happy Demo"/>
    </p>
 
----
+   > * See all in [`demo`](https://github.com/felipecastrosales/Happy/tree/master/public/images/demos) folder. 🧐📂
 
+---
 
 <h2 align="center">Layout 🎨</h2>
 
    <p align="center">
-      The Layout was developed by <a href="https://instagram.com/tiagoluchtenberg">Tiago Luchtenberg</a>, and you can access it on Figma, just click to see <a href="https://www.figma.com/file/XYb2tha1gU5M8vTwTUmjNx/Happy-Web-(Copy)?node-id=0%3A1">Desktop</a> and at <a href="https://www.figma.com/file/X27FfVxAgy9f5IFa7ONlph/Happy-Mobile?node-id=0%3A1">Mobile </a>!
+      The Layout was developed by <a href="https://instagram.com/tiagoluchtenberg">Tiago Luchtenberg</a>, and you can access it on Figma:
+      
+   - <a href="https://www.figma.com/file/XYb2tha1gU5M8vTwTUmjNx/Happy-Web-(Copy)?node-id=0%3A1">Desktop</a> 🖥️
+   - <a href="https://www.figma.com/file/X27FfVxAgy9f5IFa7ONlph/Happy-Mobile?node-id=0%3A1">Mobile</a> 📱
    </p>
 
 ---
