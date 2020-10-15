@@ -57,7 +57,7 @@
 
 ---
 
-<h2 align="center">Tecnologias 🚀</h2>
+<h2 align="center">Technologies 🚀</h2>
 
 - [Node.js](https://nodejs.org/en/)
 - [Express](https://expressjs.com/pt-br/)
