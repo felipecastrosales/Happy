@@ -57,6 +57,17 @@
 
 ---
 
+<h2 align="center">Tecnologias 🚀</h2>
+
+- [Node.js](https://nodejs.org/en/)
+- [Express](https://expressjs.com/pt-br/)
+- [SQLite](https://www.sqlite.org/index.html)
+- [JavaScript](https://www.javascript.com/)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [HTML](https://html.com/)
+
+---
+
 <h2 align="center">Challenges and Learnings along the way 🤯</h2>
 
    <p>
