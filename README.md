@@ -62,6 +62,7 @@
 - [Node.js](https://nodejs.org/en/)
 - [Express](https://expressjs.com/pt-br/)
 - [SQLite](https://www.sqlite.org/index.html)
+- [Handlebars](https://handlebarsjs.com/)
 - [JavaScript](https://www.javascript.com/)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [HTML](https://html.com/)
