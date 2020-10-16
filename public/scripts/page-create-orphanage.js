@@ -86,3 +86,12 @@ function toggleSelect(event) {
   // check yes or no
   input.value = button.dataset.value
 }
+
+/*function validate(event) {
+  // view if lat and lng are ok 
+  if (validate.value == "") {
+    return;
+  }
+  event.preventDefault()
+  alert('Preencha todos os campos, talvez você esqueceu de pôr a localização no mapa :)')
+}*/

@@ -18,7 +18,7 @@
    - ✅ "Looking at opportunities" 👀
    - ✅ "The Stack's Choice" 📌
    - ✅ "Up to two years in 2 months" 🔥
-   - 🔄 "The extra mile" 🚀
+   - ✅ "The extra mile" 🚀
 
 ---
 
