@@ -25,7 +25,8 @@
 <h2 align="center">Preview 💻📱</h2>
 
    <p align="center">
-      <img src="https://user-images.githubusercontent.com/59374587/95769033-9a163200-0c8d-11eb-8f43-2930a859f858.png" width="100%" alt="Happy Demo"/>
+      <img src="https://user-images.githubusercontent.com/59374587/95769033-9a163200-0c8d-11eb-8f43-2930a859f858.png" width="90%" alt="Happy Demo"/>
+      <img src="./public/images/demo.gif" width="90%" alt="Happy Demo"/>
    </p>
 
    > * See all in [`demo`](https://github.com/felipecastrosales/Happy/tree/master/public/images/demos) folder. 🧐📂
@@ -82,7 +83,9 @@
 
    <p>
       Next Level Week, as many people know, is not a joke, it requires practice, intensity and above all, a lot of focus!<br>
-      Fortunately, I am doing well, and I want to make a week even better than the last, because after all, as the same name says, we must always be looking for the next level and be better every day!
+      Fortunately, I am doing well, and I want to make a week even better than the last, because after all, as the same name says, we must always be looking for the next level and be better every day!<br>
+      Today, the 16th, was the last day of class for Next Level Week, and that experience was SENSATIONAL! Rocketseat is to be congratulated, and that it always continues with these great weeks, which gave me even more focus, objective, new news with people, and I can only be thankful for this sensational work!<br>
+      It was an incredible experience, and one that I want to live more and more often! 🚀
    </p>
 
 ---
@@ -95,6 +98,15 @@
 
    - Enter in directory:
    $ cd Happy
+
+   - For install dependencies:
+   $ npm install
+
+   - Execute application:
+   $ npm start
+
+   - Open your browser in:
+   http://localhost:5500/
    ```
 
 ---

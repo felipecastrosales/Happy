@@ -29,7 +29,8 @@
 <h2 align="center">Previews 🖥️📱</h2>
 
    <p align="center">
-      <img src="https://user-images.githubusercontent.com/59374587/95769033-9a163200-0c8d-11eb-8f43-2930a859f858.png" width="100%" alt="Happy Demo"/>
+      <img src="https://user-images.githubusercontent.com/59374587/95769033-9a163200-0c8d-11eb-8f43-2930a859f858.png" width="90%" alt="Happy Demo"/>
+      <img src="./public/images/demo.gif" width="90%" alt="Happy Demo"/>
    </p>
 
    > * Veja todas no arquivo [`demo`](https://github.com/felipecastrosales/Happy/tree/master/public/images/demos). 🧐📂
@@ -84,7 +85,9 @@
 
    <p>
       A semana Next Level Week, como muitos sabem, não é de brincadeira, ela requer prática, intensidade e principalmente, muito foco!<br> 
-      Felizmente, estou conseguindo ir bem na mesma, e quero fazer uma semana ainda melhor que a passada, pois afinal, como o mesmo nome diz, temos que sempre estar buscando um próximo nível e ser melhor a cada dia!
+      Felizmente, estou conseguindo ir bem na mesma, e quero fazer uma semana ainda melhor que a passada, pois afinal, como o mesmo nome diz, temos que sempre estar buscando um próximo nível e ser melhor a cada dia!<br>
+      Hoje, dia 16, foi o último dia de aula da Next Level Week, e essa experiência foi SENSACIONAL! A Rocketseat está de parabéns, e que ela continue sempre com essas grandes semanas, que me deram ainda mais foco, objetivo, conexões novas com pessoas, e eu só tenho a agradecer por esse trabalho sensacional!<br>
+      Foi uma experiência incrível, e que quero viver mais e mais vezes! 🚀
    </p>
 
 ---
@@ -93,10 +96,19 @@
 
 ```
 - Clone o repositório:
-$ git clone https://github.com/felipecastrosales/Happy Happy
+  $ git clone https://github.com/felipecastrosales/Happy Happy
 
 - Entre no diretório:
 $ cd Happy
+
+- Para instalar as dependências:
+$ npm install
+
+- Execute a aplicação:
+$ npm start
+
+- Open your browser in:
+http://localhost:5500/
 ```
 
 ---
@@ -126,7 +138,7 @@ $ git push origin my-feature
 
 ---
 
-> Este projeto foi desenvolvido com ❤️ por **[@Felipe Sales](https://www.linkedin.com/in/felipecastrosales/)**, com o instrutor **[@MaykBrito](https://linkedin.com/in/maykbrito)**, durante a **[Next Level Week](https://rocketseat.com.br/)** da **[Rocketseat](https://www.linkedin.com/school/rocketseat/about/)** 💜. <br>
+> Este projeto foi desenvolvido com ❤️ por **[@Felipe Sales](https://www.linkedin.com/in/felipecastrosales/)**, com o instrutor **[@MaykBrito](https://github.com/maykbrito)**, durante a **[Next Level Week](https://rocketseat.com.br/)** da **[Rocketseat](https://www.linkedin.com/school/rocketseat/about/)** 💜. <br>
 > Se isso te ajudou, dê uma ⭐, isso vai me ajudar também! 😉
 
 ---
