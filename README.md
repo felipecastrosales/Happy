@@ -17,7 +17,7 @@
    - ✅ "Accelerating Your Evolution" 💪
    - ✅ "Looking at opportunities" 👀
    - ✅ "The Stack's Choice" 📌
-   - 🔄 "Up to two years in 2 months" 🔥
+   - ✅ "Up to two years in 2 months" 🔥
    - 🔄 "The extra mile" 🚀
 
 ---
@@ -66,6 +66,15 @@
 - [JavaScript](https://www.javascript.com/)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [HTML](https://html.com/)
+
+---
+
+<h2 align="center">Notion Files 📋</h2>
+
+- [NLW3 #03](https://www.notion.so/NLW-Discovery-03-628a2c1b9ac744e28fad80046b699aab) 🚀
+- [Front-end](https://www.notion.so/Front-end-010548f316d04d65a0d8b72865874ed1) ☕
+- [Back-end](https://www.notion.so/Back-end-ff655163e56b4927ae7a7a4e08049e64) 👨‍🍳
+- [Database](https://www.notion.so/Banco-de-Dados-ba70111f89924bda94bb1016f12df8c8) 📦
 
 ---
 
